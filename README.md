@@ -1,6 +1,6 @@
 # Práctica de TypeScript: Trivia & Actividades
 
-Aplicación web desarrollada con **Vite** y **TypeScript** que consume datos de la **Open Trivia DB** y la **Pixabay API** para generar tarjetas interactivas de preguntas con imágenes temáticas y control de dificultad.
+Aplicación web desarrollada con **Vite** y **TypeScript** que consume datos de la **Open Trivia DB** y la **Pixabay API** para generar imágenes temáticas y control de dificultad.
 
  **Enlace en producción:** [practica1typescriptangel.netlify.app](https://practica1typescriptangel.netlify.app)
 
